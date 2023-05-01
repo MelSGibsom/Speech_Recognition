@@ -9,3 +9,5 @@ sudo apt-get install python3-pyaudio
 
 pip install SpeechRecognition
 
+запускай speech_recogn.py
+
